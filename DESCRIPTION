@@ -1,4 +1,4 @@
-Title: My Shiny App
+Title: shinySpeech
 Version: 1.0
 Author: (
     person(given="Yanjie",
@@ -10,7 +10,7 @@ Author: (
 Maintainer: Yanjie Lyu <yanly639@student.liu.se>
 Description: This Shiny application displays the top 10 nouns in selected speeches based on user inputs.
 License: GPL-3
-TYPE:Shiny
+TYPE: Shiny
 Imports:
     shiny,
     riksdagenAPI
