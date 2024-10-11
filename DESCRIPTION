@@ -8,7 +8,7 @@ Author: (
     person('Yi','Yang',role='aut')       
     )
 Maintainer: Yanjie Lyu <yanly639@student.liu.se>
-Description: This Shiny application displays the top 10 nouns in selected speeches based on user inputs.
+Description: This application allows users to obtain the top 10 nouns appearing in selected speeches by interactively choosing specific variables through the API data provided by the riksdagenAPI package.
 License: GPL-3
 TYPE: Shiny
 Imports:
