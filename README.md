@@ -16,3 +16,5 @@ library(shiny)
 runGitHub("shiny_2", "lyuuuuY") 
 ```
 
+## Instructions
+You can enter the member ID into our Shiny app to get the top 10 most frequent nouns. For example, "0729710260118."
